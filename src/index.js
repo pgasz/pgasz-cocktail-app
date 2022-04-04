@@ -14,8 +14,6 @@ import './style/cocktailList.css';
 import './style/error.css';
 import './style/cocktail.css';
 
-import swDev from './swDev';
-
 import App from './App';
 import { AppProvider } from './context';
 
@@ -28,8 +26,15 @@ ReactDOM.render(
     document.getElementById('root')
 );
 // swDev();
-if ('serviceWorker' in navigator) {
-    window.addEventListener('load', () => {
-        navigator.serviceWorker.register('./serviceWorker.js');
-    });
-}
+// if ('serviceWorker' in navigator) {
+//     window.addEventListener('load', () => {
+//         navigator.serviceWorker
+//             .register('./serviceWorker.js')
+//             .then((reg) => {
+//                 console.log('działa', reg);
+//             })
+//             .catch((err) => {
+//                 console.log('Error: ', err);
+//             });
+//     });
+// }

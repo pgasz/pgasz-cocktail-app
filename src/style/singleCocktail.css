@@ -20,6 +20,7 @@
   --medium: 768px;
   --large: 992px;
   --maxWidth: 1200px;
+  --smallerContainer: 40rem;
   --primary-100: hsl(33, 91%, 90%);
   --primary-200: hsl(33, 91%, 80%);
   --primary-300: hsl(33, 91%, 70%);
