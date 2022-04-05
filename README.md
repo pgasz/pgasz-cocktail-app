@@ -11,16 +11,16 @@ Check it out [here - my website](https://www.cocktails-app.pgasz.pl/ "here - my 
 - HTML5
 
 ## Usage
-You can download my repository and run it localy. [look installation](/#Installation) \
+You can download my repository and run it localy. [look installation](https://github.com/pgasz/pgasz-cocktails-app/blob/main/README.md#installation) \
 You can check my website [here](https://www.cocktails-app.pgasz.pl/ "here - my website") \
-You can download app on your PC as well as mobile device  [download app](#download-my-pwa)
+You can download app on your PC as well as mobile device  [download app](https://github.com/pgasz/pgasz-cocktails-app/blob/main/README.md#download-my-pwa)
 
 ## What is Proggresive Web App?
 PWA or Progressive Web Applications is a modern type of web application that combines the advantages of classic web and mobile apps. A full-fledged PWA website is thus an effective alternative to a mobile app that the user would otherwise have to download. PWA saves customers time because the page renders faster, downloads less data, and is more interactive. This has a positive effect on both the CX and your sales.
 
 ## Download my PWA
 I present downloading proces using Google Chrome Browser.
-1. Click this link [here - my website](https://www.cocktails-app.pgasz.pl/ "here - my website") or install my repository locally  [look installation](#installation)]
+1. Click this link [here - my website](https://www.cocktails-app.pgasz.pl/ "here - my website") or install my repository locally  [look installation](https://github.com/pgasz/pgasz-cocktails-app/blob/main/README.md#installation)]
 2. Download app
 
 On mobile device --> click pop-up on the bottom
