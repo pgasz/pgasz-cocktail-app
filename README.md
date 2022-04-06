@@ -11,7 +11,7 @@ Check it out [here - my website](https://www.cocktails-app.pgasz.pl/ "here - my 
 - HTML5
 
 ## Usage
-You can download my repository and run it localy. [look installation](https://github.com/pgasz/pgasz-cocktails-app/blob/main/README.md#installation) \
+You can download my repository and run it locally. [look installation](https://github.com/pgasz/pgasz-cocktails-app/blob/main/README.md#installation) \
 You can check my website [here](https://www.cocktails-app.pgasz.pl/ "here - my website") \
 You can download app on your PC as well as mobile device  [download app](https://github.com/pgasz/pgasz-cocktails-app/blob/main/README.md#download-my-pwa)
 
